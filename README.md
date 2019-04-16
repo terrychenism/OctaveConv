@@ -16,3 +16,5 @@ OctResNet-v1-50-cosine model used alpha = 0.25 in the table 2 of the paper.
 ## To Do List
 - [ ] support mobilenet v1/v2
 
+## Acknowledgment
+This repo is based on [DPN](https://github.com/cypw/DPNs). 
