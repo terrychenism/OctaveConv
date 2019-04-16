@@ -11,3 +11,8 @@ This repository contains a [MXNet](https://github.com/apache/incubator-mxnet) im
 
 ![example](fig/training-curve.png)
 
+OctResNet-v1-50-cosine model used alpha = 0.25 in the table 2 of the paper. 
+
+## To Do List
+- [ ] support mobilenet v1/v2
+
