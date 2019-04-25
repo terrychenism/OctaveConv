@@ -20,4 +20,4 @@ OctResNet-v1-50-cosine model used alpha = 0.25 in the table 2 of the paper.
 This repo is based on [DPN](https://github.com/cypw/DPNs). 
 
 ## UPDATE 
-Here is the official implementation: https://github.com/facebookresearch/OctConv
+Here is the official implementation: https://github.com/facebookresearch/OctConv (Highly Recommend!)
